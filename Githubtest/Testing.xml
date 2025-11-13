@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="CorporateAutomationSuite">
+    <test name="ExcelAndGitTests">
+        <classes>
+            <class name="Jenkinsgit.JengitTest"/>
+            <class name="Jenkinsgit.Extractdataexceleclipse"/>
+        </classes>
+    </test>
+</suite>

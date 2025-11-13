@@ -2,20 +2,32 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-11-12T23:01:46 IST" name="Default suite" finished-at="2025-11-12T23:02:01 IST" duration-ms="15264">
+  <suite started-at="2025-11-13T16:15:47 IST" name="Default suite" finished-at="2025-11-13T16:16:11 IST" duration-ms="23499">
     <groups>
     </groups>
-    <test started-at="2025-11-12T23:01:46 IST" name="Default test" finished-at="2025-11-12T23:02:01 IST" duration-ms="15264">
-      <class name="Jenkinsgit.jengitTest">
-        <test-method is-config="true" signature="openbrowser()[pri:0, instance:Jenkinsgit.jengitTest@55182842]" started-at="2025-11-12T23:01:46 IST" name="openbrowser" finished-at="2025-11-12T23:02:01 IST" duration-ms="15076" status="PASS">
+    <test started-at="2025-11-13T16:15:47 IST" name="Default test" finished-at="2025-11-13T16:16:11 IST" duration-ms="23499">
+      <class name="Jenkinsgit.Extractdataexceleclipse">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:Jenkinsgit.Extractdataexceleclipse@2d3379b4]" started-at="2025-11-13T16:15:47 IST" name="openbrowser" finished-at="2025-11-13T16:16:06 IST" duration-ms="18956" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openbrowser -->
-        <test-method signature="Verifytitle()[pri:0, instance:Jenkinsgit.jengitTest@55182842]" started-at="2025-11-12T23:02:01 IST" name="Verifytitle" finished-at="2025-11-12T23:02:01 IST" duration-ms="70" status="PASS">
+        <test-method signature="Fillusername(java.lang.String,java.lang.String)[pri:0, instance:Jenkinsgit.Extractdataexceleclipse@2d3379b4]" started-at="2025-11-13T16:16:10 IST" name="Fillusername" data-provider="dp" finished-at="2025-11-13T16:16:11 IST" duration-ms="488" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mrinal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mrinalraghav]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Verifytitle -->
-      </class> <!-- Jenkinsgit.jengitTest -->
+        </test-method> <!-- Fillusername -->
+      </class> <!-- Jenkinsgit.Extractdataexceleclipse -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
