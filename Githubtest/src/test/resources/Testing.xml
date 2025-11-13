@@ -4,6 +4,7 @@
         <classes>
          <class name="Jenkinsgit.Extractdataexceleclipse"/>
             <class name="Jenkinsgit.JengitTest"/>
+            <class name="Jenkinsgit.another"/>
            
         </classes>
     </test>
