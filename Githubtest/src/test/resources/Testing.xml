@@ -3,7 +3,7 @@
     <test name="ExcelAndGitTests">
         <classes>
          <class name="Jenkinsgit.Extractdataexceleclipse"/>
-            <class name="Jenkinsgit.JengitTest"/>
+            <class name="Jenkinsgit.jengitTest"/>
             <class name="Jenkinsgit.another"/>
            
         </classes>
