@@ -2,8 +2,9 @@
 <suite name="CorporateAutomationSuite">
     <test name="ExcelAndGitTests">
         <classes>
+         <class name="Jenkinsgit.Extractdataexceleclipse"/>
             <class name="Jenkinsgit.JengitTest"/>
-            <class name="Jenkinsgit.Extractdataexceleclipse"/>
+           
         </classes>
     </test>
 </suite>
