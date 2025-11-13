@@ -1,7 +1,0 @@
-<suite name="ParallelByMethods" parallel="methods" thread-count="3">
-    <test name="ParallelMethodsTest">
-        <classes>
-            <class name="tests.PracticeNovSeven"/>
-        </classes>
-    </test>
-</suite>
